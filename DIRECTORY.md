@@ -128,6 +128,7 @@
 
 ## Games
   * [Memory Game](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/games/memory_game.cpp)
+  * [TicTacToe Game](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/games/tictactoe_game.cpp)
 
 ## Geometry
   * [Graham Scan Algorithm](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/geometry/graham_scan_algorithm.cpp)
